@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "minecraft:d_connection.ttf",
+            "shift": [0, 1],
+            "size": 11.0,
+            "oversample": 10.0
+        }
+    ]
+}

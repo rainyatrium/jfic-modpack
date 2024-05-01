@@ -1,4 +1,6 @@
 {
   "CONFIG_VERSION": 1,
+  "first_person_matrices": false,
+  "action_wheel_button": "key.mouse.4",
   "main_dir": "C:\\Users\\sierr\\Documents\\Minecraft\\Skins\\Figura"
 }

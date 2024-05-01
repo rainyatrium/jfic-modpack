@@ -1,8 +1,14 @@
 completedTutorials=[
-    introduction
+    introduction,
+    "box_select_tool",
+    selection,
+    "magic_select_tool",
+    clentaminator,
+    "slope_tool",
+    "sculpt_draw_tool"
 ]
 customDowngradeSuggestions=[]
-globalScale=1
+globalScale=0.9375
 lastTranslationCount=0
 openEditorWindowTypes=[
     tools,
@@ -12,7 +18,8 @@ openEditorWindowTypes=[
     history,
     "world_properties",
     clipboard,
-    "target_info"
+    "target_info",
+    "tool_masks"
 ]
 rootEditorPalette {
     blocks=[]
@@ -20,5 +27,5 @@ rootEditorPalette {
 savedCustomTheme="ASel0AAAlJbUd1aURhcmsAAA=="
 showCloseWindowButton=false
 showNon90DegreeRotationWarning=true
-showToolMaskOpenWarning=true
+showToolMaskOpenWarning=false
 shownIntroduction=true

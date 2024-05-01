@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "minecraft:huosit.ttf",
+            "shift": [0, -3],
+            "size": 24.0,
+            "oversample": 16.0
+        }
+    ]
+}

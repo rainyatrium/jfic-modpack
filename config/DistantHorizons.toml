@@ -209,7 +209,7 @@ _version = 2
 			# DEBUG: Debug testing renderer 
 			# DISABLED: Disable rendering
 			# 
-			rendererMode = "DISABLED"
+			rendererMode = "DEFAULT"
 			# If enabled the LODs will render as wireframe.
 			# 
 			renderWireframe = false
@@ -446,7 +446,7 @@ _version = 2
 				maxHorizontalResolution = "BLOCK"
 				# The radius of the mod's render distance. (measured in chunks)
 				# 
-				lodChunkRenderDistanceRadius = 128
+				lodChunkRenderDistanceRadius = 140
 				# Should the blocks underneath avoided blocks gain the color of the avoided block? 
 				# 
 				# True: a red flower will tint the grass below it red. 
