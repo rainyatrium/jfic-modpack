@@ -55,9 +55,9 @@
 	#Is the health system enabled
 	health_enabled = true
 	#Is the moisture content enabled
-	moisture_enabled = true
+	moisture_enabled = false
 	#The larger the value, the slower the nutrient value drops
-	"Nutrient value drop rate" = 10.0
+	"Nutrient value drop rate" = 20.0
 
 [PTSD]
 	#How many times after death triggers PTSD. value:0~40

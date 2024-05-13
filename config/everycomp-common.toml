@@ -273,33 +273,9 @@
 				stable_door = true
 				modern_door = true
 
-			[general.entries.wood_type.refurbished_furniture]
-				storage_cabinet = true
-				storage_jar = true
-				kitchen_cabinetry = true
-				crate = true
-				desk = true
-				chair = true
-				light_ceiling_fan = true
-				cutting_board = true
-				drawer = true
-				table = true
-				mail_box = true
-				dark_ceiling_fan = true
-				kitchen_sink = true
-				toilet = true
-				lattice_fence = true
-				basin = true
-				kitchen_drawer = true
-				lattice_fence_gate = true
-				bath = true
-				kitchen_storage_cabinet = true
-
 			[general.entries.wood_type.regions_unexplored]
 				branch = true
 
-		[general.entries.leaves_type]
-
-			[general.entries.leaves_type.refurbished_furniture]
-				hedge = true
+			[general.entries.wood_type.mighty_mail]
+				mail_box = true
 

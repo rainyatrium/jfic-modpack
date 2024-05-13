@@ -6,7 +6,8 @@
     "create",
     "thermal",
     "immersiveengineering",
-    "mekanism"
+    "mekanism",
+	"farmersdelight"
   ],
   "stoneStrata": [
     "stone",
@@ -28,7 +29,8 @@
     "forge:rods/{material}",
     "forge:wires/{material}",
     "forge:storage_blocks/{material}",
-    "forge:storage_blocks/raw_{material}"
+    "forge:storage_blocks/raw_{material}",
+	"meadow:salt"
   ],
   "materials": [
     "aeternium",
@@ -80,7 +82,18 @@
     "zinc"
   ],
   "priorityOverrides": {},
-  "customTags": {},
+  "customTags": {
+  	"meadow:salt": [
+    "refurbished_furniture:sea_salt",
+	"reactive:salt",
+	"primalmagick:refined_salt",
+	"galosphere:pink_salt_shard"
+  ],
+	"forge:gems/rose_quartz": [
+	"create:rose_quartz",
+	"biomesoplenty:rose_quartz_chunk"
+	]
+  },
   "tagOwnerships": {},
   "itemTagInheritanceMode": "ALLOW",
   "itemTagInheritance": {},

@@ -2,7 +2,7 @@ type = user_variables
 
 variable {
   name = lagpositionYX
-  value = 0,15
+  value = 6,2
   reset_on_launch = false
 }
 
@@ -14,13 +14,13 @@ variable {
 
 variable {
   name = xPercent
-  value = 15
+  value = 2
   reset_on_launch = false
 }
 
 variable {
   name = yPercent
-  value = 0
+  value = 6
   reset_on_launch = false
 }
 
@@ -32,7 +32,7 @@ variable {
 
 variable {
   name = positionYX
-  value = 0,15
+  value = 6,2
   reset_on_launch = false
 }
 
