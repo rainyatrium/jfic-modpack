@@ -1,8 +1,0 @@
-
-[SomePeripheralsConfig]
-
-	[SomePeripheralsConfig.ClientToolgunSettings]
-		#
-		#Range: 1.0 ~ 1.7976931348623157E308
-		MAX_RAYCAST_DISTANCE = 100.0
-
