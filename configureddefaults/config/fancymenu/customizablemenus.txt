@@ -15,3 +15,15 @@ net.minecraft.client.gui.screens.worldselection.SelectWorldScreen {
 net.minecraft.client.gui.screens.LanguageSelectScreen {
 }
 
+net.minecraft.client.gui.screens.DisconnectedScreen {
+}
+
+net.minecraft.client.gui.screens.inventory.StructureBlockEditScreen {
+}
+
+net.minecraft.client.gui.screens.CreditsAndAttributionScreen {
+}
+
+net.minecraft.client.gui.screens.telemetry.TelemetryInfoScreen {
+}
+

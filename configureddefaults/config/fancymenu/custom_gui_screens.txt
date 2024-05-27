@@ -3,3 +3,30 @@ type = custom_gui_screens
 overridden_screens {
 }
 
+custom_gui {
+  identifier = endcard
+  title = 
+  allow_esc = false
+  transparent_world_background = true
+  transparent_world_background_overlay = false
+  pause_game = true
+}
+
+custom_gui {
+  identifier = permadeath
+  title = I'M AFRAID I'VE FORGOTTEN...
+  allow_esc = false
+  transparent_world_background = false
+  transparent_world_background_overlay = false
+  pause_game = true
+}
+
+custom_gui {
+  identifier = intro
+  title = 
+  allow_esc = false
+  transparent_world_background = true
+  transparent_world_background_overlay = false
+  pause_game = false
+}
+

@@ -2,7 +2,7 @@ type = user_variables
 
 variable {
   name = lagpositionYX
-  value = 6,2
+  value = 5,2
   reset_on_launch = false
 }
 
@@ -20,7 +20,13 @@ variable {
 
 variable {
   name = yPercent
-  value = 6
+  value = 5
+  reset_on_launch = false
+}
+
+variable {
+  name = generic_count_max
+  value = 44
   reset_on_launch = false
 }
 
@@ -32,13 +38,31 @@ variable {
 
 variable {
   name = positionYX
-  value = 6,2
+  value = 5,2
+  reset_on_launch = false
+}
+
+variable {
+  name = introstage
+  value = 0
+  reset_on_launch = false
+}
+
+variable {
+  name = generic_count
+  value = 0
   reset_on_launch = false
 }
 
 variable {
   name = row
   value = B
+  reset_on_launch = false
+}
+
+variable {
+  name = introstagemax
+  value = 7
   reset_on_launch = false
 }
 

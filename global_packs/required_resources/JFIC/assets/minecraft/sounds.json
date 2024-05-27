@@ -1,0 +1,525 @@
+{
+	"jfic.intro": {
+		"category": "master",
+		"sounds": [
+			"jfic/thiscamefromthesky"
+		]
+	},
+	"otherlands.thunder": {
+		"category": "weather",
+		"sounds": [
+			"otherlands/thunder1",
+			"otherlands/thunder2",
+			"otherlands/thunder3",
+			"otherlands/thunder4",
+			"otherlands/thunder5"
+		]
+	},
+	"otherlands.beep.0":{
+		"sounds": [
+			"otherlands/beeps/0"
+		]
+	},
+	"otherlands.beep.1":{
+		"sounds": [
+			"otherlands/beeps/1"
+		]
+	},
+	"otherlands.beep.2":{
+		"sounds": [
+			"otherlands/beeps/2"
+		]
+	},
+	"otherlands.beep.3":{
+		"sounds": [
+			"otherlands/beeps/3"
+		]
+	},
+	"otherlands.beep.4":{
+		"sounds": [
+			"otherlands/beeps/4"
+		]
+	},
+	"otherlands.beep.5":{
+		"sounds": [
+			"otherlands/beeps/5"
+		]
+	},
+	"otherlands.beep.6":{
+		"sounds": [
+			"otherlands/beeps/6"
+		]
+	},
+	"otherlands.beep.7":{
+		"sounds": [
+			"otherlands/beeps/7"
+		]
+	},
+	"otherlands.beep.8":{
+		"sounds": [
+			"otherlands/beeps/8"
+		]
+	},
+	"otherlands.beep.9":{
+		"sounds": [
+			"otherlands/beeps/9"
+		]
+	},
+	"otherlands.beep.10":{
+		"sounds": [
+			"otherlands/beeps/10"
+		]
+	},
+	"otherlands.beep.11":{
+		"sounds": [
+			"otherlands/beeps/11"
+		]
+	},
+	"otherlands.beep.12":{
+		"sounds": [
+			"otherlands/beeps/12"
+		]
+	},
+	"otherlands.beep.13":{
+		"sounds": [
+			"otherlands/beeps/13"
+		]
+	},
+	"otherlands.beep.14":{
+		"sounds": [
+			"otherlands/beeps/14"
+		]
+	},
+	"otherlands.beep.15":{
+		"sounds": [
+			"otherlands/beeps/15"
+		]
+	},
+	"otherlands.beep.16":{
+		"sounds": [
+			"otherlands/beeps/16"
+		]
+	},
+	"otherlands.beep.17":{
+		"sounds": [
+			"otherlands/beeps/17"
+		]
+	},
+	"otherlands.beep.18":{
+		"sounds": [
+			"otherlands/beeps/18"
+		]
+	},
+	"otherlands.beep.19":{
+		"sounds": [
+			"otherlands/beeps/19"
+		]
+	},
+	"otherlands.beep.20":{
+		"sounds": [
+			"otherlands/beeps/20"
+		]
+	},
+	"otherlands.beep.21":{
+		"sounds": [
+			"otherlands/beeps/21"
+		]
+	},
+	"otherlands.beep.22":{
+		"sounds": [
+			"otherlands/beeps/22"
+		]
+	},
+	"otherlands.beep.23":{
+		"sounds": [
+			"otherlands/beeps/23"
+		]
+	},
+	"otherlands.beep.24":{
+		"sounds": [
+			"otherlands/beeps/24"
+		]
+	},
+	"otherlands.beep.25":{
+		"sounds": [
+			"otherlands/beeps/25"
+		]
+	},
+	"otherlands.beep.26":{
+		"sounds": [
+			"otherlands/beeps/26"
+		]
+	},
+	"otherlands.beep.27":{
+		"sounds": [
+			"otherlands/beeps/27"
+		]
+	},
+	"otherlands.beep.28":{
+		"sounds": [
+			"otherlands/beeps/28"
+		]
+	},
+	"otherlands.beep.29":{
+		"sounds": [
+			"otherlands/beeps/29"
+		]
+	},
+	"otherlands.beep.dark_tone.0":{
+		"sounds": [
+			"otherlands/beeps/dark_tone_0"
+		]
+	},
+	"otherlands.beep.dark_tone.1":{
+		"sounds": [
+			"otherlands/beeps/dark_tone_1"
+		]
+	},
+	"otherlands.beep.dark_tone.2":{
+		"sounds": [
+			"otherlands/beeps/dark_tone_2"
+		]
+	},
+	"otherlands.beep.dark_tone.3":{
+		"sounds": [
+			"otherlands/beeps/dark_tone_3"
+		]
+	},
+	"otherlands.beep.dark_tone.4":{
+		"sounds": [
+			"otherlands/beeps/dark_tone_4"
+		]
+	},
+	"otherlands.pierrot.a":{
+		"sounds": [
+			"otherlands/pierrot/a"
+		]
+	},
+	"otherlands.pierrot.b":{
+		"sounds": [
+			"otherlands/pierrot/b"
+		]
+	},
+	"otherlands.pierrot.c":{
+		"sounds": [
+			"otherlands/pierrot/c"
+		]
+	},
+	"otherlands.pierrot.d":{
+		"sounds": [
+			"otherlands/pierrot/d"
+		]
+	},
+	"otherlands.pierrot.e":{
+		"sounds": [
+			"otherlands/pierrot/e"
+		]
+	},
+	"otherlands.pierrot.f":{
+		"sounds": [
+			"otherlands/pierrot/f"
+		]
+	},
+	"otherlands.pierrot.g":{
+		"sounds": [
+			"otherlands/pierrot/g"
+		]
+	},
+	"otherlands.pierrot.h":{
+		"sounds": [
+			"otherlands/pierrot/h"
+		]
+	},
+	"otherlands.pierrot.i":{
+		"sounds": [
+			"otherlands/pierrot/i"
+		]
+	},
+	"otherlands.pierrot.j":{
+		"sounds": [
+			"otherlands/pierrot/j"
+		]
+	},
+	"otherlands.pierrot.k":{
+		"sounds": [
+			"otherlands/pierrot/k"
+		]
+	},
+	"otherlands.pierrot.l":{
+		"sounds": [
+			"otherlands/pierrot/l"
+		]
+	},
+	"otherlands.pierrot.m":{
+		"sounds": [
+			"otherlands/pierrot/m"
+		]
+	},
+	"otherlands.pierrot.n":{
+		"sounds": [
+			"otherlands/pierrot/n"
+		]
+	},
+	"otherlands.pierrot.o":{
+		"sounds": [
+			"otherlands/pierrot/o"
+		]
+	},
+	"otherlands.pierrot.p":{
+		"sounds": [
+			"otherlands/pierrot/p"
+		]
+	},
+	"otherlands.pierrot.q":{
+		"sounds": [
+			"otherlands/pierrot/q"
+		]
+	},
+	"otherlands.pierrot.r":{
+		"sounds": [
+			"otherlands/pierrot/r"
+		]
+	},
+	"otherlands.pierrot.s":{
+		"sounds": [
+			"otherlands/pierrot/s"
+		]
+	},
+	"otherlands.pierrot.t":{
+		"sounds": [
+			"otherlands/pierrot/t"
+		]
+	},
+	"otherlands.pierrot.u":{
+		"sounds": [
+			"otherlands/pierrot/u"
+		]
+	},
+	"otherlands.pierrot.v":{
+		"sounds": [
+			"otherlands/pierrot/v"
+		]
+	},
+	"otherlands.pierrot.w":{
+		"sounds": [
+			"otherlands/pierrot/w"
+		]
+	},
+	"otherlands.pierrot.x":{
+		"sounds": [
+			"otherlands/pierrot/x"
+		]
+	},
+	"otherlands.pierrot.y":{
+		"sounds": [
+			"otherlands/pierrot/y"
+		]
+	},
+	"otherlands.pierrot.z":{
+		"sounds": [
+			"otherlands/pierrot/z"
+		]
+	},
+	"otherlands.unwrap":{
+		"sounds": [
+			"otherlands/unwrap"
+		]
+	},
+	"otherlands.cicadas":{
+		"sounds": [
+			"otherlands/cicadas"
+		]
+	},
+	"otherlands.towncrierbell":{
+		"sounds": [
+			"otherlands/towncrierbell"
+		]
+	},
+	"otherlands.door_chime":{
+		"sounds": [
+			"otherlands/door_chime"
+		]
+	},
+	"otherlands.catalyst.whisper":{
+		"sounds": [
+			"otherlands/wynn/catalystwhisper",
+			"otherlands/wynn/catalystwhisper1",
+			"otherlands/wynn/catalystwhisper2",
+			"otherlands/wynn/catalystwhisper3"
+		]
+	},
+	"otherlands.distant_splash":{
+		"sounds": [
+			"otherlands/distant_splash"
+		]
+	},
+	"otherlands.boing":{
+		"sounds": [
+			"otherlands/boing"
+		]
+	},
+	"otherlands.boing_fail":{
+		"sounds": [
+			"otherlands/boing_fail"
+		]
+	},
+	"otherlands.culture.speak":{
+		"sounds": [
+			"otherlands/culture/culturespeak"
+		]
+	},
+	"otherlands.culture.hiwob":{
+		"sounds": [
+			"otherlands/culture/ambient_3"
+		]
+	},
+	"otherlands.culture.lowob":{
+		"sounds": [
+			"otherlands/culture/ambient_2"
+		]
+	},
+	"otherlands.culture.roar":{
+		"sounds": [
+			"otherlands/culture/ambient_0"
+		]
+	},
+	"otherlands.culture.angy":{
+		"sounds": [
+			"otherlands/culture/spawn"
+		]
+	},
+	"otherlands.culture.quick":{
+		"sounds": [
+			"otherlands/culture/quick"
+		]
+	},
+		"otherlands.steam":{
+		"sounds": [
+			"otherlands/steam"
+		]
+	},
+		"otherlands.architect.local_pickup":{
+		"sounds": [
+			"otherlands/architect/local_pickup"
+		]
+	},
+		"otherlands.architect.local_hangup":{
+		"sounds": [
+			"otherlands/architect/local_hangup"
+		]
+	},
+	"otherlands.architect.ringl":{
+		"sounds": [
+			"otherlands/architect/architect_ring_long"
+		]
+	},
+	"otherlands.architect.ring":{
+		"sounds": [
+			"otherlands/architect/architect_ring"
+		]
+	},
+	"otherlands.architect.hangup":{
+		"sounds": [
+			"otherlands/architect/architect_hangup"
+		]
+	},
+	"otherlands.architect.phone":{
+		"sounds": [
+			{
+			"name": "otherlands/architect/architect_phone",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.architect.office":{
+		"sounds": [
+			{
+			"name": "otherlands/architect/office",
+			"stream": true
+			}
+		]
+	},
+		"otherlands.architect.bigboom":{
+		"sounds": [
+			{
+			"name": "otherlands/architect/big_boom",
+			"stream": true
+			}
+		]
+	},
+			"otherlands.architect.spotlight":{
+		"sounds": [
+			{
+			"name": "otherlands/architect/spotlight",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.castle.glitch_thunder":{
+		"sounds": [
+			"otherlands/castle/glitch_thunder_0",
+			"otherlands/castle/glitch_thunder_1"
+		]
+	},
+	"otherlands.castle.glitch_thunder_distant":{
+		"sounds": [
+			"otherlands/castle/glitch_thunder_distant_0",
+			"otherlands/castle/glitch_thunder_distant_1"
+		]
+	},
+	"otherlands.boom":{
+		"sounds": [
+			"otherlands/library/boom"
+		]
+	},
+		"otherlands.rumblestereo":{
+		"sounds": [
+			"otherlands/library/rumblestereo"
+		]
+	},
+	"otherlands.rumble":{
+		"sounds": [
+			"otherlands/library/rumble"
+		]
+	},
+	"otherlands.aral.chime":{
+		"sounds": [
+			"otherlands/toxic/chime"
+		]
+		},
+	"otherlands.aral.chimequick":{
+		"sounds": [
+			"otherlands/toxic/quickchime"
+		]
+		},
+			"otherlands.aral.winerror":{
+		"sounds": [
+			"otherlands/toxic/winerror"
+		]
+		},
+	"otherlands.aral.overdraw":{
+		"sounds": [
+			"otherlands/toxic/overdraw"
+		]
+	},
+	"otherlands.puzzlesolve":{
+		"sounds": [
+			"otherlands/library/puzzle_solve"
+		]
+	},
+	"otherlands.sleighbell":{
+		"sounds": [
+			"otherlands/sleigh-bell"
+		]
+	},
+	"otherlands.marketplace_crowd":{
+		"sounds": [
+			"otherlands/marketplace_crowd"
+		]
+	},
+			"otherlands.volcano_eruption":{
+		"sounds": [
+			"otherlands/volcano"
+		]
+	}
+}
